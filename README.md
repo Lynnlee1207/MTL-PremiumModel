@@ -1,6 +1,6 @@
 # Multi-task Learning for Insurance Premium Prediction
 
-This repository contains the implementation for the master's thesis "Multitask Learning for Insurance Claiming".
+This repository contains the implementation for the master's thesis "Multitask Learning for Insurance Claim Modeling".
 
 ## Overview
 
